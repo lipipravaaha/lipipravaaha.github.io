@@ -1,4 +1,4 @@
-# grantha
+# lipipravaaha Website
 
 1. [Overview](#overview)
    1. [Metadata](#metadata)
